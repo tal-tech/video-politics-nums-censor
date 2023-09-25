@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # image-politics-censor
 =======
 # image-politics-nums-censor
@@ -22,3 +23,6 @@
 # video-politics-nums-censor
 
 >>>>>>> 2c3e30181d91ed8fce16dd2ebb5d68707a70ec05
+=======
+# video-politics-nums-censor
+>>>>>>> 107de9b706ca7c8be5fe8803e22174ed5ca97a90
